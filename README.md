@@ -11,3 +11,7 @@ This portfolio structure is inspired by katiehuangx
 
 ***
 
+# Desmos Project (for fun 😊) 
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+| 🏘️ [Nezuko Drawing](https://github.com/RatanaSovann/data-engineering/blob/main/Airbnb%20%2B%20Census%20Data) | Oct 2020 | Math & Desmos| Trying to learn and visualize 2-dimension math equations in a fun & interactive way.|
