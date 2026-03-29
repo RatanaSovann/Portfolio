@@ -16,7 +16,7 @@ This portfolio structure is inspired by katiehuangx
 
 | Project Link | Area | Libraries | Project Description |    
 |---|---|---|---|
-| Neural Network Architecture | Data Science | Pytorch, Numpy, Mathplotlib | Build, evaluate and refine a neural network architecture that achieves at least 80% accuracy when classifying Japanese MNIST, which contains 10 hiragana characters. The key restriction is not to rely on convolution layers and training MLP (Multi Layered Perceptrons) from scratch. |
+| 🧠 [Neural Network Architecture](https://github.com/RatanaSovann/Neural-Network-Architecture/blob/main/Readme.md) | Data Science | Pytorch, Numpy, Mathplotlib | Build, evaluate and refine a neural network architecture that achieves at least 80% accuracy when classifying Japanese MNIST, which contains 10 hiragana characters. The key restriction is not to rely on convolution layers and training MLP (Multi Layered Perceptrons) from scratch. |
 
 
 ***
@@ -24,4 +24,4 @@ This portfolio structure is inspired by katiehuangx
 # Desmos Project (for fun 😊) 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🏘️ [Nezuko Drawing](https://github.com/RatanaSovann/desmos/blob/main/README.md) | Oct 2020 | Math & Desmos| Trying to learn and visualize 2-dimension math equations in a fun & interactive way.|
+| ✏️ [Nezuko Drawing](https://github.com/RatanaSovann/desmos/blob/main/README.md) | Oct 2020 | Math & Desmos| Trying to learn and visualize 2-dimension math equations in a fun & interactive way.|
