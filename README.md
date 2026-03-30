@@ -1,4 +1,4 @@
-# 🗺 Ratana's Portfolio
+# 🗺 Ratana's Data Portfolio
 
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. Here you will see my approach to tackling technical and challenging data problems. Come along as I try to climb the learning curve one pinky at a time! 
 This portfolio structure is inspired by katiehuangx
