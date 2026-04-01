@@ -18,7 +18,7 @@ This portfolio structure is inspired by katiehuangx
 | Project Link | Area | Libraries | Project Description |    
 |---|---|---|---|
 | 🧠 [Neural Network Architecture](https://github.com/RatanaSovann/Neural-Network-Architecture/blob/main/Readme.md) | Data Science | Pytorch, Numpy, Mathplotlib | Build, evaluate and refine a neural network architecture that achieves at least 80% accuracy when classifying Japanese MNIST, which contains 10 hiragana characters. The key restriction is not to rely on convolution layers and training MLP (Multi Layered Perceptrons) from scratch. |
-| 👁️ [Computer Vision](https://github.com/RatanaSovann/Computer_Vision/edit/main/README.md)| Data Science | Pytorch, Numpy, Mathplotlib, Kaggle | Analysed architectural differences across GoogLeNet, MobileNetV3, and ResNet, and applied transfer learning to classify 101 Food101 categories using ImageNet pre-trained weights. | 
+| 👁️ [Computer Vision](https://github.com/RatanaSovann/Computer_Vision)| Data Science | Pytorch, Numpy, Mathplotlib, Kaggle | Analysed architectural differences across GoogLeNet, MobileNetV3, and ResNet, and applied transfer learning to classify 101 Food101 categories using ImageNet pre-trained weights. | 
 
 ***
 
