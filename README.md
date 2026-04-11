@@ -19,6 +19,7 @@ This portfolio structure is inspired by katiehuangx
 |---|---|---|---|
 | 🧠 [Neural Network Architecture](https://github.com/RatanaSovann/Neural-Network-Architecture/tree/main) | Data Science | Pytorch, Numpy, Mathplotlib | Build, evaluate and refine a neural network architecture that achieves at least 80% accuracy when classifying Japanese MNIST, which contains 10 hiragana characters. The key restriction is not to rely on convolution layers and training MLP (Multi Layered Perceptrons) from scratch. |
 | 👁️ [Computer Vision](https://github.com/RatanaSovann/Computer_Vision)| Data Science | Pytorch, Numpy, Mathplotlib, Kaggle | Analysed architectural differences across GoogLeNet, MobileNetV3, and ResNet, and applied transfer learning to classify 101 Food101 categories using ImageNet pre-trained weights. | 
+| 🏡 [Sydney Housing Price Prediction](https://github.com/RatanaSovann/your-repo-link) | Data Science | Python, Scikit-learn, Pandas, Statistical Modelling | Analysed Sydney housing market dynamics using regression and machine learning to understand price drivers, finding property fundamentals dominate value while location (distance to CBD) reflects key urban economic patterns. |
 
 ***
 
