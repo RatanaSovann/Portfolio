@@ -16,7 +16,7 @@ This portfolio structure is inspired by katiehuangx
 
 | Project Link | Area | Libraries | Project Description |    
 |---|---|---|---|
-| 🤖 [CSV Insights Agent](https://github.com/RatanaSovann/your-repo-link) | AI / Data Science | Python, LangGraph, LangChain, Streamlit, Pandas | Built a multi-agent data analysis system that transforms CSV files into insights via natural language, enabling automated querying, code generation, execution, and visualization through an agentic workflow. |
+| 🤖 [CSV Insights Agent](https://github.com/RatanaSovann/data_analyst_agent_V2) | AI / Data Science | Python, LangGraph, LangChain, Streamlit, Pandas | Built a multi-agent data analysis system that transforms CSV files into insights via natural language, enabling automated querying, code generation, execution, and visualization through an agentic workflow. |
 
 ***
 # Python
