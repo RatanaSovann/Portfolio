@@ -20,6 +20,14 @@ This portfolio structure is inspired by katiehuangx
 | 🤖 [Pay-roll Compliance Multi Agent](https://github.com/RatanaSovann/payroll_multi_agent/) | AI / Data Science | Claude, Python, Plotly, and Streamlit | Built an AI-powered Australian payroll compliance system that analyses payroll data, flags regulatory risks, and produces evidence-backed reports, dashboards, and audit trails.|
 
 ***
+# Data Analyst
+
+| Project Link | Area | Libraries | Project Description |    
+|---|---|---|---|
+| 🤖 [Pay-roll Analytic](https://github.com/RatanaSovann/payroll_analytic) | Data Analytics | Python, SQL, PowerBI | Compliance analytics on a synthetic employment tax, payg and super annuation witholding. |
+
+
+***
 # Python
 
 | Project Link | Area | Libraries | Project Description |    
@@ -34,3 +42,4 @@ This portfolio structure is inspired by katiehuangx
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 | ✏️ [Nezuko Drawing](https://github.com/RatanaSovann/desmos/blob/main/README.md) | Oct 2020 | Math & Desmos| Trying to learn and visualize 2-dimension math equations in a fun & interactive way.|
+| 🔍 [Data Job Scraping](https://github.com/RatanaSovann/data_job_research) | May 2026 | Python | A python script to scrape job based on keywords & ETL notebook to convert it into csv or db.|
