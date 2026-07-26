@@ -17,14 +17,14 @@ This portfolio structure is inspired by katiehuangx
 | Project Link | Area | Libraries | Project Description |    
 |---|---|---|---|
 | 🤖 [CSV Insights Agent](https://github.com/RatanaSovann/data_analyst_agent_V2) | AI / Data Science | Python, LangGraph, LangChain, Streamlit, Pandas | Built a multi-agent data analysis system that transforms CSV files into insights via natural language, enabling automated querying, code generation, execution, and visualization through an agentic workflow. |
-| 🤖 [Pay-roll Compliance Multi Agent](https://github.com/RatanaSovann/payroll_multi_agent/) | AI / Data Science | Claude, Python, Plotly, and Streamlit | Built an AI-powered Australian payroll compliance system that analyses payroll data, flags regulatory risks, and produces evidence-backed reports, dashboards, and audit trails.|
+| 💻 [Pay-roll Compliance Multi Agent](https://github.com/RatanaSovann/payroll_multi_agent/) | AI / Data Science | Claude, Python, Plotly, and Streamlit | Built an AI-powered Australian payroll compliance system that analyses payroll data, flags regulatory risks, and produces evidence-backed reports, dashboards, and audit trails.|
 
 ***
 # Data Analyst
 
 | Project Link | Area | Libraries | Project Description |    
 |---|---|---|---|
-| 🤖 [Pay-roll Analytic](https://github.com/RatanaSovann/payroll_analytic) | Data Analytics | Python, SQL, PowerBI | Compliance analytics on a synthetic employment tax, payg and super annuation witholding. |
+| 🔍 [Pay-roll Analytic](https://github.com/RatanaSovann/payroll_analytic) | Data Analytics | Python, SQL, PowerBI | Compliance analytics on a synthetic employment tax, payg and super annuation witholding. |
 
 
 ***
